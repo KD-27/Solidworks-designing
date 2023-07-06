@@ -1,1 +1,1 @@
-
+Universal joints, also known as U-joints, are mechanical couplings that provide flexibility and transmit motion between two rotating shafts that are not aligned, allowing for the transfer of torque and rotational motion even in non-collinear or misaligned configurations.
